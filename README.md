@@ -8,4 +8,4 @@ Display current song information and progress.
 Responsive layout using Bootstrap, making it accessible across all devices.
 Animated progress bar and song duration tracking.
 Easy to customize and expand with additional features.
-Enjoy seamless music playback with a sleek, user-friendly interface!
+Enjoy seamless music playback with a sleek, user-friendly interface!# Music-player-app
